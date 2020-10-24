@@ -2,5 +2,5 @@
 
 # Sample of output
 
-![Alt text](Output Image/outputImage.png)
+![Output Sample](Image/outputImage.png)
 
